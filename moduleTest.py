@@ -1,7 +1,7 @@
 # This is a module containing funtion  that will print differnt things
 
-def     HelloWorld():
+def HelloWorld():
     print "Hello World!"
 
-def     MyName():
+def MyName():
     print "My name is Rahisul"
